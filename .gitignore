@@ -2,3 +2,4 @@
 *.pyc
 *.deb
 *.swp
+libc_response_cache.*
